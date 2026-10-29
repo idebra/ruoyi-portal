@@ -40,7 +40,7 @@ function enterGuest() {
         <router-link to="/login" class="btn ghost">已有账号，登录</router-link>
         <button class="btn plain" @click="enterGuest">匿名进入</button>
       </div>
-      <p class="hero-meta">账号体系与若依后台共用（注册即开通）；匿名进入只能浏览公开介绍，不产生账号数据。本站由 Jenkins 流水线自动构建部署（Docker 与原生双套）。</p>
+      <p class="hero-meta">账号体系与若依后台共用（注册即开通）；匿名进入只能浏览公开介绍，不产生账号数据。本站由 Jenkins 流水线自动构建部署（Docker 与原生双套均已验证）。</p>
     </section>
 
     <section class="section">
